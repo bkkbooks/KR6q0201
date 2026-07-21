@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0201_000.yaml, hash: 'sha256:67440fb8c42c5f00142946b9ecd49169979cdd63c8e53dad8cbe5bdb09702c43'}
+  - {seq: 0, filename: KR6q0201_000.yaml, hash: 'sha256:037c027f2744d3c3009ab6fd9e4d480218d682f9ad60f9e06abad644deb537f0'}
   - {seq: 1, filename: KR6q0201_001.yaml, hash: 'sha256:af2f377ade34cdd2bf5425d3d757b034bee8449b21b8544372947802b3564e99'}
   - {seq: 2, filename: KR6q0201_002.yaml, hash: 'sha256:b85157f70023951e432f7b3636150300180b3de85fde36d377f705d3e9761848'}
   - {seq: 3, filename: KR6q0201_003.yaml, hash: 'sha256:15e147993f60c1ebf0c31f437fd05b00dc18a8361a1cbe02cd487e69fc6bc953'}
@@ -43,7 +43,7 @@ assets:
   - {seq: 19, filename: KR6q0201_019.yaml, hash: 'sha256:3f75d707482a1a9600792da8175c37cc003e3c449c4d0ef41da0f08537a9a90b'}
   - {seq: 20, filename: KR6q0201_020.yaml, hash: 'sha256:967f565386b8f80634e790fda2752f9e43fb1778a5da32dfcf06176706c17c55'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0201_000.markers.yaml, hash: 'sha256:75c37752b7fcc640709be773ecaa7f5a4343df2a3cb77daeb8f8ec01495a3fe3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0201_000.markers.yaml, hash: 'sha256:bfe7bf53538fd5fa04d3e982806a6d45d116c2db2b86e741f01463bbf3db30de'}
   - {seq: 1, role: markers, filename: assets/KR6q0201_001.markers.yaml, hash: 'sha256:46c84f317b8c0136f97c302831a695cd8f28716ea7f4d9c0d9db1b3e39444a73'}
   - {seq: 2, role: markers, filename: assets/KR6q0201_002.markers.yaml, hash: 'sha256:1ae3daea0e814a52f4aeeae3e59840f7614a1699a94482e68d6944837e9a45e9'}
   - {seq: 3, role: markers, filename: assets/KR6q0201_003.markers.yaml, hash: 'sha256:6e0dbb6ca46cee34f29c1b348fce8d24a6ca7a3eda43ffe7073d76c9fc3665e5'}
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0201_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 石雨大師法檀敘
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0201_J_000-mulu-2
     span:
-    - front
+    - body
     - 528
     - 528
   label: 石雨禪師法檀敘
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0201_J_000-mulu-3
     span:
-    - front
+    - body
     - 622
     - 622
   label: 石雨禪師法檀總目
@@ -4775,7 +4775,7 @@ table_of_contents:
   label: 行狀
   type: mulu
   level: 1
-hash: sha256:006c3204136a01fccaa7cd2281ffec61230e31c4e93c1dda2b78e5d468084da8
+hash: sha256:5fc664c13e0cfab6399854ae34437c22ba318b09702dfaba9bd698ae3ae48e8f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
